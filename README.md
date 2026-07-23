@@ -16,17 +16,6 @@ Minha atuação une conhecimento jurídico sobre proteção de dados com desenvo
 
 ## 🚀 Projetos
 
-### 📊 Análise de Dados Varejo
-
-Projeto desenvolvido utilizando Python e Pandas para tratamento, limpeza e análise de mais de 800 mil registros.
-
-Principais práticas:
-- Data Cleaning
-- Análise exploratória
-- Identificação de padrões
-- Geração de insights
-
-
 ### ✈️ ETL Portal da Transparência
 
 Pipeline de Engenharia de Dados utilizando Python e PostgreSQL para extração, transformação e armazenamento de dados públicos.
@@ -37,6 +26,16 @@ Conceitos aplicados:
 - Qualidade de dados
 - Camadas Raw/Silver/Gold
 
+
+### 📊 Análise de Dados Varejo
+
+Projeto desenvolvido utilizando Python e Pandas para tratamento, limpeza e análise de mais de 800 mil registros.
+
+Principais práticas:
+- Data Cleaning
+- Análise exploratória
+- Identificação de padrões
+- Geração de insights
 
 ## 🛠 Tecnologias
 
