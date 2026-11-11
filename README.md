@@ -119,6 +119,10 @@ Projeto de análise exploratória de uma base de aproximadamente **830 mil regis
 
 ---
 
+## Contato
+
+🔗 [Acessar LinkedIn](https://www.linkedin.com/in/luiz-carlos-de-freitas-neto0000/)
+
 ---
 
 *Em constante aprendizado, transformando conhecimento em projetos práticos e soluções tecnológicas.*
