@@ -2,7 +2,7 @@
 
 ### 🚀 Engenharia de Dados | Python | SQL | Inteligência Artificial | Cibersegurança
 
-Sou estudante de **Segurança Cibernética na Gran Faculdade**, com previsão de conclusão em **julho de 2028**, e estou em formação em **Análise de Dados pelo programa SC Tec — SENAI/SC**.
+Sou estudante de **Segurança Cibernética**, com previsão de conclusão em **julho de 2028**, e estou em formação em **Análise de Dados pelo programa SC Tec — SENAI/SC**.
 
 Tenho formação técnica em Automação Industrial e trajetória acadêmica em Direito. Atualmente, concentro meus estudos e projetos em **Engenharia de Dados, Desenvolvimento Python, Inteligência Artificial e Segurança da Informação**.
 
