@@ -58,7 +58,7 @@ Projeto Final do Módulo 2 do SC Tec, utilizando dados de contratações públic
 
 **Tecnologias:** Python, Pandas, PostgreSQL, SQL, Power BI e Git.
 
-🔗 [Acessar repositório PNCP 2025](https://github.com/luizcfreitasneto/projeto-final-modulo-2-sc-tec)
+🔗 [Acessar repositório](https://github.com/luizcfreitasneto/projeto-final-modulo-2-sc-tec)
 
 ### 🥇 2. Engenharia de Dados — Arquitetura Medallion (Raw, Silver e Gold)
 
@@ -70,6 +70,8 @@ Projeto acadêmico desenvolvido no programa SC Tec, utilizando uma arquitetura d
 - **Gold:** organização de dados tratados para consumo analítico e geração de indicadores.
 
 **Competências aplicadas:** arquitetura de dados, processamento de dados, ETL/ELT, qualidade de dados e organização de pipelines.
+
+🔗 [Acessar repositório](https://github.com/luizcfreitasneto/projeto-final-modulo-01-sc-tec-etl-medallion)
 
 ### 🐾 3. Pata Amiga — Data Warehouse com PostgreSQL
 
@@ -87,6 +89,8 @@ Projeto acadêmico baseado em uma rede fictícia de petshops de Santa Catarina, 
 
 **Tecnologias:** PostgreSQL 16, SQL, pgAdmin e Data Warehouse.
 
+🔗 [Acessar repositório](https://github.com/luizcfreitasneto/dw-pata-amiga)
+
 ### 🛒 4. Análise de Dados de Varejo — Python e Pandas
 
 Projeto de análise exploratória de uma base de aproximadamente **830 mil registros**.
@@ -99,6 +103,8 @@ Projeto de análise exploratória de uma base de aproximadamente **830 mil regis
 - Criação de visualizações e documentação dos resultados.
 
 **Tecnologias:** Python, Pandas, Matplotlib e Seaborn.
+
+🔗 [Acessar repositório](https://github.com/luizcfreitasneto/Miniprojeto_Luiz_Carlos_Freitas_Neto_Analise_de_Dados_T1)
 
 ---
 
